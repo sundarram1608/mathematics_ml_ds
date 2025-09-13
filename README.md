@@ -7,6 +7,6 @@ This include both:
 
 You could verify the certificate at https://coursera.org/verify/specialization/I5HC1O4DEVS2
 
-![Alt text](certificate.pdf)
+[View the PDF](certificate.pdf)
 
 
