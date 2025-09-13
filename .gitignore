@@ -1,1 +1,4 @@
 .DS_Store
+1_linear_algebra/graded/3_eigen_values_eigen_vectors/support_files/expected_cov_mat.npy
+3_probability/**/data/rideshare_2022.csv
+3_probability/**/data/rideshare_2022_raw_with_problematic_dates.csv
