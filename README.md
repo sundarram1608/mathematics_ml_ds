@@ -5,7 +5,7 @@ This include both:
 > 1. Practise assignment
 > 2. Graded Projects
 
-You could verify the certificate at https://coursera.org/verify/specialization/I5HC1O4DEVS2
+You could e-verify the certificate by clicking [here](https://coursera.org/verify/specialization/I5HC1O4DEVS2)
 
 [View certificate](certificate.pdf)
 
